@@ -4,16 +4,7 @@ This is a simple application that predicts the grammatical correctness of a give
 
 ## Getting Started
 
-### Prerequisites
-
-To run this project, make sure you have Python and the required libraries installed. You can install them using pip:
-
-```bash
-pip install transformers
-
-
-
-**Code Overview**
+## Code Overview 
 
 The project consists of two main components:
 
@@ -28,4 +19,13 @@ The project consists of two main components:
 **Example**
 
 For example, if you enter the sentence: "i am a student," the application will predict that it's not grammatically correct.
+
+
+
+### Prerequisites
+
+To run this project, make sure you have Python and the required libraries installed. You can install them using pip:
+
+```bash
+pip install transformers
 
